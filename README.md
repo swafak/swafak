@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Safa Osman</h1>
 <h3 align="center">I am an aspiring Computer Engineer building my skills in software Engineering. I am also a cyber security enthusiast.</h3>
 
